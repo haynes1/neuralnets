@@ -7,5 +7,3 @@ http://neuralnetworksanddeeplearning.com
 
 
 
-https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80
-http://nnhw-env.rmn6v4p86s.us-east-1.elasticbeanstalk.com/
