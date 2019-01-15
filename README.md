@@ -8,4 +8,4 @@ http://neuralnetworksanddeeplearning.com
 
 
 https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80
-http://nnhw-demo.us-east-1.elasticbeanstalk.com/
+http://nnhw-env.rmn6v4p86s.us-east-1.elasticbeanstalk.com/
