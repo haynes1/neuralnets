@@ -26,4 +26,6 @@ def contrast(c):
     return 128 + factor * (c - 128)
 im = im.point(contrast)
 
+im  = im.transpose(Image.ROTATE_90)
+
 im.save("../data/images/test0-convert.jpg", "JPEG")
